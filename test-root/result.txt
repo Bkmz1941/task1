@@ -1,0 +1,17 @@
+Hello from File 2-1.txt
+require 'Folder 2/File 2-1.txt'
+
+Hello from file 3-1-1.txt
+require 'Folder 3/Folder 3-1/File 3-1-1.txt'
+
+Hello from File0-0.txt
+Hello from file 3-1.txt
+Hello from File 1-1.txt
+
+require 'Folder 3/File 3-1.txt'
+
+Hello from File 1-1.txt
+require 'Folder 1/File 1-1.txt'
+require 'Folder 2/File 2-1.txt'
+
+Hello from File 2-2.txt
